@@ -1,1 +1,2 @@
 Hello from file a.txt
+second string
