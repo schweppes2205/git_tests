@@ -1,2 +1,4 @@
 Hello from file a.txt
 second string
+
+that came from new branch-myNewBranch
